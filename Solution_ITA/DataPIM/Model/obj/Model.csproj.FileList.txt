@@ -1,0 +1,5 @@
+bin\Debug\Djdw.Model.dll
+bin\Debug\Djdw.Model.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Djdw.Model.dll
+obj\Debug\Djdw.Model.pdb

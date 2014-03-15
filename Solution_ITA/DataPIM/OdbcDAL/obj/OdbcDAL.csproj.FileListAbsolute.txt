@@ -1,0 +1,100 @@
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.DBUtility.dll
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.IDAL.dll
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.Model.dll
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.Model.pdb
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.IDAL.pdb
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\OleDbDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.DBUtility.dll
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.IDAL.dll
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.Model.dll
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.Model.pdb
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.IDAL.pdb
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\codemanager\Solution_gpsadv\OleDbDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.DBUtility.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.IDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\bin\Debug\Djdw.IDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\OleDbDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.DBUtility.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.IDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\bin\Debug\Djdw.IDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\OleDbDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.DBUtility.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.IDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\bin\Debug\Djdw.IDAL.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\OleDbDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.DBUtility.dll
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.IDAL.dll
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.Model.dll
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.Model.pdb
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\bin\Debug\Djdw.IDAL.pdb
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.DBUtility.dll
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.IDAL.dll
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.Model.dll
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.Model.pdb
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\work\XXTY_Solution\website\OdbcDAL\bin\Debug\Djdw.IDAL.pdb
+D:\work\XXTY_Solution\website\OdbcDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\work\XXTY_Solution\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\work\XXTY_Solution\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\资料\Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.DBUtility.dll
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.IDAL.dll
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\bin\Debug\Djdw.IDAL.pdb
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.OdbcDAL.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.DBUtility.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.IDAL.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\bin\Debug\Djdw.IDAL.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\OdbcDAL\obj\Debug\Djdw.OdbcDAL.pdb

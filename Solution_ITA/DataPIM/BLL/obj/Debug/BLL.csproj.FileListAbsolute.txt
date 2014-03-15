@@ -1,0 +1,13 @@
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.BLL.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.BLL.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.DALFactory.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.DBUtility.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.IDAL.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.DBUtility.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.IDAL.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\bin\Debug\Djdw.DALFactory.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\obj\Debug\Djdw.BLL.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\BLL\obj\Debug\Djdw.BLL.pdb

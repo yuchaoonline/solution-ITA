@@ -1,0 +1,28 @@
+﻿<flowchart version="2" name="NetCommArch" nextposx="80" nextposy="30">
+  <title text="通讯架构" nid="0" x="59.40104" y="30" familyname="Microsoft Sans Serif" fontsize="15" alignment="32" bold="T" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="3" nid="2" pidtop="3" pidright="4" pidbottom="5" pidleft="6" text="实时通信中间件" x="244.662109" y="210.454422" />
+  <node kind="3" nid="17" pidtop="18" pidright="19" pidbottom="20" pidleft="21" text="系统综合管理软件" x="197.328125" y="130.454422" />
+  <node kind="3" nid="22" pidtop="23" pidright="24" pidbottom="25" pidleft="26" text="作战单元" x="316.664063" y="50.45443" />
+  <node kind="3" nid="27" pidtop="28" pidright="29" pidbottom="30" pidleft="31" text="上级指挥网络" x="16.9960976" y="120.45443" />
+  <node kind="3" nid="32" pidtop="33" pidright="34" pidbottom="35" pidleft="36" text="数据链/捕控软件" x="382.8099" y="120.45443" />
+  <node kind="3" nid="37" pidtop="38" pidright="39" pidbottom="40" pidleft="41" text="态势分析软件" x="6.99609756" y="270.454437" />
+  <node kind="3" nid="42" pidtop="43" pidright="44" pidbottom="45" pidleft="46" text="任务规划软件" x="116.996094" y="310.454437" />
+  <node kind="3" nid="47" pidtop="48" pidright="49" pidbottom="50" pidleft="51" text="推演评估软件" x="291.9961" y="300.454437" />
+  <node kind="3" nid="52" pidtop="53" pidright="54" pidbottom="55" pidleft="56" text="在线规划软件" x="406.9961" y="280.454437" />
+  <link nid="57" from="30" to="21" midtext="" />
+  <link nid="58" from="18" to="29" midtext="" />
+  <link nid="60" from="25" to="19" midtext="" />
+  <link nid="61" from="18" to="26" midtext="" />
+  <link nid="62" from="38" to="3" midtext="" />
+  <link nid="63" from="3" to="39" midtext="" />
+  <link nid="64" from="6" to="44" midtext="" />
+  <link nid="69" from="43" to="6" midtext="" />
+  <link nid="70" from="5" to="48" midtext="" />
+  <link nid="71" from="50" to="5" midtext="" />
+  <link nid="73" from="4" to="53" midtext="" />
+  <link nid="74" from="56" to="4" midtext="" />
+  <link nid="76" from="20" to="3" midtext="" />
+  <link nid="79" from="35" to="3" midtext="" />
+  <link nid="82" from="5" to="20" midtext="" />
+  <link nid="83" from="5" to="35" midtext="" />
+</flowchart>

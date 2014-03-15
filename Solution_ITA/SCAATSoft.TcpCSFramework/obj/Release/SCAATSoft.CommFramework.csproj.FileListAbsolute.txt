@@ -1,0 +1,5 @@
+E:\陆巡通讯程序\陆巡通讯程序\SCAATSoft.TcpCSFramework\bin\Release\SCAATSoft.CommFramework.dll
+E:\陆巡通讯程序\陆巡通讯程序\SCAATSoft.TcpCSFramework\bin\Release\SCAATSoft.CommFramework.pdb
+E:\陆巡通讯程序\陆巡通讯程序\SCAATSoft.TcpCSFramework\obj\Release\ResolveAssemblyReference.cache
+E:\陆巡通讯程序\陆巡通讯程序\SCAATSoft.TcpCSFramework\obj\Release\SCAATSoft.CommFramework.dll
+E:\陆巡通讯程序\陆巡通讯程序\SCAATSoft.TcpCSFramework\obj\Release\SCAATSoft.CommFramework.pdb

@@ -1,0 +1,180 @@
+﻿/* CSS Document */
+body {
+	background: #F6F6F6;
+}
+#neir {
+	font-size: 12px;
+	border-collapse:collapse;
+}
+
+
+#neir td {
+	line-height: 14px;
+	border: 1px solid #999999;
+	padding: 3px 3px 3px 5px;
+}
+th {
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #0D5AA8;
+	text-align: center;
+}
+#neir tr {background-color:expression((this.sectionRowIndex==0)?"":
+(this.sectionRowIndex%2==0)?"#ffffff":"#F4FCFF")
+}
+td {
+	font-size: 12px;
+	font-family: "宋体", "黑体", Arial, Basemic;
+	line-height: 14px;
+	padding: 2px;
+}
+.tianj{
+	font-size: 12px;
+	line-height: 18px;
+	height: 23px;
+	width: 50px;
+}
+.table_top {
+	background: #79C8ED url(../images/bg_th.gif);
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+}
+a:link ,a:visited {
+	color: #0658AA;
+}
+a:hover  {
+	color: #FF6600;
+}
+select {
+	
+	visibility: inherit;
+}
+
+/*GridView样式*/
+.GridView{
+    line-height: 14px;
+	border: 1px solid #999999;
+	padding: 3px 3px 3px 5px;
+}
+.GridView td{
+  
+	line-height: 16px;
+	border: 1px solid #999999;
+	padding: 3px 3px 3px 5px;
+}
+.FooterStyle
+{
+	color: #FFFFFF;
+	background: #698FD8;
+}
+.RowStyle
+{
+	background: #F4FCFF; /*中间暗色*/
+	font-size: 12px;
+	line-height: 20px; 
+ }
+.EditRowStyle
+{
+	background: #F4FCFF;
+	font-size: 12px;
+	line-height: 21px;   
+	}
+.AlternatingRowStyle
+{
+	background: #FFFFFF;
+	font-size: 12px;
+	line-height: 20px;  /*中间亮色*/
+	
+}
+.HeaderStyle
+{
+	height: 18px;
+	font-size: 13px;
+	border: 1px solid #999999;
+	font-weight: bold;
+	color: #FFFFFF;
+	background: #1093D1 url(../images/bg_th.gif) repeat-x;
+	padding: 3px;
+	/*text-align: center;*/
+	}
+
+.PagerStyle td{
+	margin: 10px;
+	line-height: 20px;	
+}
+
+.PagerStyle {
+	margin: 2px;
+	padding: 2px 5px;
+	border: 1px solid #EFF3FB;
+	font-size: 12px;
+	line-height: 12px;
+	background: #EFF3FB;	
+}
+.PagerStyle span {
+	margin: 2px;
+	padding: 2px 5px;
+	color:#4D4D4D;
+	font-size: 12px;
+	line-height: 12px;
+	font-weight: bold;
+} 
+.PagerStyle a ,.PagerStyle a:visited {
+	margin: 2px;
+	padding: 2px 5px;
+	text-decoration: underline;
+	border: 1px solid #EFF3FB;
+	font-size: 12px;
+	line-height: 12px;
+	color: #0033CC;
+}
+.PagerStyle a:hover {
+	text-decoration: none;
+	border: 1px solid #507CD1;
+	text-decoration: underline;
+}
+.PagerStyle a:active {
+    text-decoration: none;
+	border: 1px solid #507CD1;
+	
+}
+.FooterStyle{
+	color: #FFFFFF;
+	background: #698FD8;
+	}	
+.EditItemStyle{
+    background: #2461BF;
+}
+.SelectedItemStyle{
+    background: #D1DDF1;
+	font-size: 12px;
+	
+	
+}
+.AlternatingItemStyle{
+    background: #FFFFFF;
+	font-size: 12px;
+	line-height: 20px;  
+	
+}
+.ItemStyle{
+	background: #F4FCFF;
+	font-size: 12px;
+	line-height: 21px;  
+	
+}
+
+.DataGrid{
+    line-height: 14px;
+	border: 1px solid #999999;
+	padding: 3px 3px 3px 5px;
+}
+.DataGrid td{
+  
+	line-height: 16px;
+	border: 1px solid #999999;
+	padding: 3px 3px 3px 5px;
+}
+*/

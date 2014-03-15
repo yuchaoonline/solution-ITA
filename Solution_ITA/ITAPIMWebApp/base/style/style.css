@@ -1,0 +1,148 @@
+﻿/* CSS Document */
+body {
+	margin-left: 3px;
+	margin-top: 0px;
+	margin-right: 3px;
+	margin-bottom: 0px;
+}
+
+.STYLE_HEAD {
+	color: #e1e2e3;
+	font-size: 12px;
+}
+/*#neir {
+	font-size: 12px;
+	border-collapse:collapse;
+}
+
+
+#neir td {
+	line-height: 14px;
+	border: 1px solid #999999;
+	padding: 3px 3px 3px 5px;
+}*/
+
+
+
+td {
+	font-size: 12px;
+	font-family: "宋体", "黑体", Arial, Basemic;
+	/*line-height: 14px;*/
+	/*padding: 2px;*/
+}
+.tianj{
+	font-size: 12px;
+	line-height: 18px;
+	height: 23px;
+	width: 50px;
+}
+.table_top {
+	background: #79C8ED url(../images/bg_th.gif);
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+}
+a:link ,a:visited {
+	color: #0658AA;
+}
+a:hover  {
+	color: #FF6600;
+}
+select {
+	visibility: inherit;
+}
+
+/*GridView样式*/
+.GridView{
+    line-height: 14px;
+	border: 1px solid #999999;
+	padding: 3px 3px 3px 5px;
+	background-color:#a8c7ce;
+}
+.GridView th
+{
+    border: 1px solid #a6d0e7;
+    border-color:#a6d0e7;
+}
+.GridView td{
+	border: 1px solid #a6d0e7;
+}
+.FooterStyle
+{
+	color: #FFFFFF;
+	background: #698FD8;
+}
+.RowStyle
+{
+	background: #FFFFFF; /*中间暗色*/
+	font-size: 12px;
+	
+ }
+.EditRowStyle
+{
+	background: #FFFFFF;
+	font-size: 12px;
+	
+	}
+.AlternatingRowStyle
+{
+	background: #FFFFFF;
+	font-size: 12px;  /*中间亮色*/
+	
+}
+.HeaderStyle
+{
+	height: 12px;
+	font-size: 12px;
+	border: 1px solid #999999;
+	border-style:solid;
+	font-weight: normal;
+	color: #000000;
+	padding: 3px;
+	background-color:#d3eaef;
+	text-align: center;
+	}
+
+.PagerStyle td{
+	margin: 1px;
+	padding: 5px 1px;
+	border: 1px solid #F6F6F6;
+}
+.PagerStyle {
+	margin: 0px;
+	padding: 4px 0px;
+	border: 1px solid #EFF3FB;
+	font-size: 12px;
+	line-height: 12px;
+	background: #EFF3FB;
+		
+}
+.PagerStyle span {
+	margin: 0px;
+	padding: 4px 5px;
+	color:#4D4D4D;
+	font-size: 12px;
+	line-height: 12px;
+	font-weight: bold;
+} 
+.PagerStyle a ,.PagerStyle a:visited {
+	margin: 0px;
+	padding: 4px 5px;
+	text-decoration: underline;
+	border: 1px solid #EFF3FB;
+	font-size: 12px;
+	line-height: 12px;
+	color: #0033CC;
+}
+.PagerStyle a:hover {
+	text-decoration: none;
+	border: 1px solid #507CD1;
+	text-decoration: underline;
+}
+.PagerStyle a:active {
+    text-decoration: none;
+	border: 1px solid #507CD1;
+	
+}
+
+ 

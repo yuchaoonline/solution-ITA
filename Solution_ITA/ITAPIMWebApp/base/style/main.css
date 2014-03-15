@@ -1,0 +1,186 @@
+P {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%
+}
+SELECT {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%
+}
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px; COLOR: #000000; LINE-HEIGHT: 150%; BACKGROUND-COLOR: #ffffff
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+A {
+	FONT-SIZE: 12px; COLOR: #666600; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.font1 {
+	FONT: 12px/150% "宋体"; COLOR: #000000
+}
+.font2 {
+	FONT: 15px/150% "宋体"; COLOR: #000000
+}
+.font3 {
+	FONT: 14px/150% "宋体"; COLOR: #f76720
+}
+.font4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000
+}
+.tnt {
+	WRITING-MODE: tb-rl; TEXT-ALIGN: center
+}
+.link1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; WIDTH: 78px; COLOR: #ffffff; PADDING-TOP: 5px; FONT-FAMILY: "宋体"; HEIGHT: 20px; TEXT-DECORATION: none
+}
+.link1:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/adminpage/bt_bg2_admin.gif); WIDTH: 78px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "宋体"; HEIGHT: 20px; TEXT-DECORATION: none
+}
+.link2 {
+	FONT-SIZE: 12px; COLOR: #273d7a; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.link2:hover {
+	FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+.t1 {
+	FONT: 12px 宋体; COLOR: #000000
+}
+.t2 {
+	FONT: 12px 宋体; COLOR: #ffffff
+}
+.bt1 {
+	FONT: 14px 宋体; COLOR: #000000
+}
+.bt2 {
+	FONT: 14px 宋体; COLOR: #ffffff
+}
+.a01 {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.a01:hover {
+	FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.a06 {
+	FONT-SIZE: 12px; COLOR: #0045a4; TEXT-DECORATION: none
+}
+.a06:hover {
+	FONT-SIZE: 12px; COLOR: #0045a4; TEXT-DECORATION: none
+}
+.a07 {
+	FONT-SIZE: 12px; COLOR: #ff7404; TEXT-DECORATION: none
+}
+.a07:hover {
+	FONT-SIZE: 12px; COLOR: #ff7404; TEXT-DECORATION: none
+}
+.a02 {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.a02:hover {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.a11 {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+.a11:hover {
+	FONT-SIZE: 12px; COLOR: #ff9900; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+.a12 {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+.a12:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+.input1 {
+	BORDER-RIGHT: #55bbff 1px solid; BORDER-TOP: #1251a5 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #1251a5 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #55bbff 1px solid; FONT-FAMILY: "宋体"; BACKGROUND-COLOR: #2579dd
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #111111
+}
+.tnt {
+	VERTICAL-ALIGN: middle; LETTER-SPACING: 3px
+}
+.but1 {
+	WIDTH: 150px; HEIGHT: 20px
+}
+.font6 {
+	COLOR: #880000
+}
+.m_over {
+	BACKGROUND-COLOR: #e6edff
+}
+.m_out {
+	BACKGROUND-COLOR: #fcfdff
+}
+.m_title {
+	BACKGROUND-COLOR: #eeeeee
+}
+.hand {
+	CURSOR: pointer
+}
+.jstable {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.jstable TD {
+	BORDER-BOTTOM: #cccccc 1px dashed
+}
+.jstable TD .border_but {
+	BORDER-RIGHT: #b3d9ff 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #b3d9ff 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #b3d9ff 1px solid; CURSOR: pointer; PADDING-TOP: 4px; BORDER-BOTTOM: #b3d9ff 1px solid; BACKGROUND-COLOR: #f0f5ff
+}
+.border_but {
+	BORDER-RIGHT: #b3d9ff 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #b3d9ff 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #b3d9ff 1px solid; CURSOR: pointer; PADDING-TOP: 4px; BORDER-BOTTOM: #b3d9ff 1px solid; BACKGROUND-COLOR: #f0f5ff
+}
+.borders {
+	BORDER-RIGHT: #7f9db9 1px solid; BORDER-TOP: #7f9db9 1px solid; BORDER-LEFT: #7f9db9 1px solid; BORDER-BOTTOM: #7f9db9 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.gray_but {
+	BORDER-RIGHT: #dddddd 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #dddddd 1px solid; PADDING-LEFT: 4px; FILTER: Gray(); PADDING-BOTTOM: 2px; BORDER-LEFT: #dddddd 1px solid; CURSOR: pointer; PADDING-TOP: 4px; BORDER-BOTTOM: #dddddd 1px solid; BACKGROUND-COLOR: #eaeaea
+}
+.div_t1 {
+	BORDER-RIGHT: #fd8a39 1px solid; BORDER-TOP: #fd8a39 1px solid; BACKGROUND-IMAGE: url(../img/pic_t1.gif); BORDER-LEFT: #fd8a39 1px solid; WIDTH: 102px; BORDER-BOTTOM: #fd8a39 1px solid; HEIGHT: 16px
+}
+.div_t2 {
+	BACKGROUND-IMAGE: url(../img/pic_t2.gif); WIDTH: 102px; POSITION: absolute; HEIGHT: 14px
+}
+.title_font {
+	FONT-WEIGHT: bold; COLOR: #0045a4
+}
+.border2 {
+	BORDER-RIGHT: #bfdfff 1px solid; BORDER-TOP: #bfdfff 1px solid; BORDER-LEFT: #bfdfff 1px solid; BORDER-BOTTOM: #bfdfff 1px solid
+}
+.content {
+	LINE-HEIGHT: 20px
+}
+.list_1 {
+	BACKGROUND-COLOR: #f6f6f6
+}
+.list_2 {
+	BACKGROUND-COLOR: #ffffff
+}
+.query_but {
+	BORDER-RIGHT: #b3d9ff 1px solid; BORDER-TOP: #b3d9ff 1px solid; BORDER-LEFT: #b3d9ff 1px solid; CURSOR: pointer; BORDER-BOTTOM: #b3d9ff 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #f0f5ff
+}
+.tdborder TD {
+	BORDER-BOTTOM: #eaeaea 1px solid
+}
+.pingjia {
+	MARGIN-TOP: 20px; DISPLAY: none; WIDTH: 40px; POSITION: absolute; HEIGHT: 20px
+}
+.title_tr A {
+	FONT-WEIGHT: bold; COLOR: #0045a4; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #fcfdff; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.title_tr TD {
+	FONT-WEIGHT: bold; COLOR: #0045a4; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #fcfdff; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.title_tr A:hover {
+	FONT-WEIGHT: bold; COLOR: #ff0000; WHITE-SPACE: nowrap; TEXT-DECORATION: underline
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.mp_classlist DIV {
+	HEIGHT: 20px
+}

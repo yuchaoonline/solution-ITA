@@ -1,0 +1,60 @@
+﻿<node name="NowTaskNode" text="当前作战项目">
+  <node name="node1_BllMng" text="业务管理子系统">
+    <node name="node1_1_RsMng" text="资源管理">
+      <node name="node_BL_RSMissileInfoMng" text="测试文档管理" form="ITAMngApp.TkMng.DocForm.DocumentForm">
+      </node>
+      <node name="node_BL_BL_BL_RSLVInfo" text="FF平台管理" form="XfMngApp.RsMng.RSLVInfo.LVInfoQuery">
+      </node>
+      <node name="node_BL_BL_RSMapInfo" text="地图信息管理" form="XfMngApp.RsMng.RSMapInfo.MapInfoQuery">
+      </node>
+    </node>
+    <node name="node1_2_IFMng" text="信息融合管理">
+      <node name="node_IFAssuInfoMng" text="XDDD文件管理" form="XfMngApp.IfMng.IFAssuInfo.AssuInfoQuery">
+      </node>
+      <node name="node_IFTaskInfoMng" text="任务信息管理">
+        <node name="node_IFTargetInfoMng" text="打击目标管理" form="XfMngApp.IfMng.IFTargetInfo.TargetInfoQuery">
+        </node>
+      </node>
+      <node name="node_IFThrInfoMng" text="标准管理">
+        <node name="node_IFEnvirInfoMng" text="标准环境">
+        </node>
+        <node name="node_IFFireThInfoMng" text="DFHL">
+        </node>
+        <node name="node_IFRadThInfoMng" text="DDDD">
+        </node>
+        <node name="node_IFIntThInfo" text="DDDD">
+        </node>
+      </node>
+    </node>
+    <node name="node1_3_TkMng" text="任务指控管理">
+      <node name="node1_3_1_TkccinfoMng" text="任务信息管理" form="XfMngApp.TcMng.TcTaskInfo.TaskInfoQuery">
+      </node>
+      <node name="node1_3_2_TkccplanMng" text="任务规划管理" form="XfMngApp.TcMng.TcIScheme.TcISchemeQuery">
+      </node>
+      <node name="node1_3_3_TkccsltnMng" text="最终方案管理" form="XfMngApp.TcMng.TcFScheme.TcFSchemeQuery">
+      </node>
+      <node name="node1_3_4_TkccfrccMng" text="指控管理" form="XfMngApp.TcMng.TcFirCmdCtrl.TcFirCmdCtrlForm">
+      </node>
+      <node name="node1_3_5_TkccolccMng" text="在线指控管理" form="XfMngApp.TcMng.TcOnlineCtrl.TcOnlineCtrlForm">
+      </node>
+      <node name="node1_3_6_TkccwrrsMng" text="结果管理" form="XfMngApp.TcMng.TcWarResult.TcWarResultForm">
+      </node>
+    </node>
+    <node name="node1_4_ScMng" text="综合监控管理">
+      <node name="node1_4_1_ScmmfrmMng" text="综合监控视图" form="XfMngApp.MtMng.MainMonitorForm">
+      </node>
+    </node>
+  </node>
+  <node name="node2_DcmMng" text="数据通信子系统">
+    <node name="node2_1_DtExI" text="数据交换接口" form="XfMngApp.CmMng.DataInterfMng.DataInterfMngForm">
+    </node>
+    <node name="node2_2_DcMng" text="网络通信管理" form="XfMngApp.CmMng.NetCommMng.NetCommMngForm">
+    </node>
+    <node name="node2_3_DcScn" text="网络通信监控" form="XfMngApp.CmMng.NetCommMon.NetCommMonForm">
+    </node>
+  </node>
+  <node name="node3_PimMng" text="平台管理子系统">
+    <node name="node3_1_PimGT" text="基础管理平台" form="XfMngApp.BsMng.IEBrowerMng">
+    </node>
+  </node>
+</node>

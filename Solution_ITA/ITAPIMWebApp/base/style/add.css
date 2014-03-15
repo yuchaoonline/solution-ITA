@@ -1,0 +1,123 @@
+/* CSS Document */
+
+body {
+	margin-left: 3px;
+	margin-top: 0px;
+	margin-right: 3px;
+	margin-bottom: 0px;
+}
+.STYLE_HEAD {
+	color: #e1e2e3;
+	font-size: 12px;
+}
+
+.STYLE_TABLETD
+{
+	border:  1px solid #a6d0e7;
+	font-size: 12px;
+	color: #333333;
+}
+
+
+.th_bg
+{
+	font-size: 12px;
+	border-color: #000000;
+	font-weight: normal;
+	background-image: url("../../images/page/thback.gif");
+	height: 20px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-align: right;
+	color: #000000 
+}
+
+#neir {
+	font-size: 12px;
+	border-collapse:collapse;
+}
+
+#neir td {
+	height: 14px;
+	line-height: 14px;
+	border: 1px solid #999999;
+	padding: 2px 2px 2px 5px;
+}
+
+.textfield {
+	font-size: 12px;
+	height: 20px;
+}
+.tianj{
+	font-size: 12px;
+	line-height: 18px;
+	height: 23px;
+	width: 50px;
+}
+#lcadd{
+    border-top: 1px solid #CEDBF2;
+	border-right: 1px solid #86A6E1;
+	border-bottom: 1px solid #86A6E1;
+	border-left: 1px solid #CEDBF2;
+	margin-top: 30px;
+	border-collapse:collapse;
+	}
+#lcadd td{
+	border: 1px solid #CCCCCC;
+    }
+#dwadd {
+	border-top: 1px solid #CEDBF2;
+	border-right: 1px solid #86A6E1;
+	border-bottom: 1px solid #86A6E1;
+	border-left: 1px solid #CEDBF2;
+	margin-top: 30px;
+}
+#useradd {
+	border-top: 1px solid #CEDBF2;
+	border-right: 1px solid #86A6E1;
+	border-bottom: 1px solid #86A6E1;
+	border-left: 1px solid #CEDBF2;
+	padding: 0px;
+	margin: 0px;
+}
+#useradd td{
+	padding: 2px;
+}
+.useradd{
+    border-top: 1px solid #CEDBF2;
+	border-right: 1px solid #86A6E1;
+	border-bottom: 1px solid #86A6E1;
+	border-left: 1px solid #CEDBF2;
+}
+.useradd td{
+	padding: 2px;
+	background: #FFFFFF;
+}
+.th {
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #0D5AA8;
+	text-align: center;
+	background: #F6F6F6;
+	height: 25px;
+}
+.leftsas {
+	float: left;
+	width: 47%;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	border: 1px solid #99ccff;
+}
+.rightsas {
+	float: right;
+	height: 350px;
+	width: 97%;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	border: 1px solid #99ccff;
+}

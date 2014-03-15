@@ -1,0 +1,31 @@
+﻿<flowchart version="2" name="datainterf" nextposx="30" nextposy="30">
+  <title text="数据交换接口" nid="0" x="95" y="10" familyname="Microsoft Sans Serif" fontsize="15" alignment="32" bold="T" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="3" nid="2" pidtop="3" pidright="4" pidbottom="5" pidleft="6" text="发射车作战单元" x="24.66211" y="50.45443" />
+  <node kind="3" nid="12" pidtop="13" pidright="14" pidbottom="15" pidleft="16" text="系统综合管理软件" x="17.328125" y="100.454422" />
+  <node kind="3" nid="34" pidtop="35" pidright="36" pidbottom="37" pidleft="38" text="上级指挥网络" x="31.9960938" y="150.454437" />
+  <node kind="3" nid="39" pidtop="40" pidright="41" pidbottom="42" pidleft="43" text="系统综合管理软件" x="17.328125" y="200.454422" />
+  <node kind="3" nid="46" pidtop="47" pidright="48" pidbottom="49" pidleft="50" text="数据链/捕控软件" x="17.8099022" y="250.454422" />
+  <node kind="3" nid="51" pidtop="52" pidright="53" pidbottom="54" pidleft="55" text="系统综合管理软件" x="17.328125" y="300.4544" />
+  <node kind="3" nid="58" pidtop="59" pidright="60" pidbottom="61" pidleft="62" text="在线规划软件" x="106.996094" y="340.4544" />
+  <node kind="3" nid="63" pidtop="64" pidright="65" pidbottom="66" pidleft="67" text="系统综合管理软件" x="97.328125" y="390.4544" />
+  <node kind="3" nid="70" pidtop="71" pidright="72" pidbottom="73" pidleft="74" text="推演与评估软件" x="204.662109" y="250.454422" />
+  <node kind="3" nid="75" pidtop="76" pidright="77" pidbottom="78" pidleft="79" text="系统综合管理软件" x="202.328125" y="300.454437" />
+  <node kind="3" nid="82" pidtop="83" pidright="84" pidbottom="85" pidleft="86" text="航迹规划软件" x="211.9961" y="50.45443" />
+  <node kind="3" nid="87" pidtop="88" pidright="89" pidbottom="90" pidleft="91" text="系统综合管理软件" x="202.328125" y="100.454407" />
+  <node kind="3" nid="94" pidtop="95" pidright="96" pidbottom="97" pidleft="98" text="态势分析软件" x="206.9961" y="150.454437" />
+  <node kind="3" nid="99" pidtop="100" pidright="101" pidbottom="102" pidleft="103" text="系统综合管理软件" x="197.328125" y="200.4544" />
+  <link nid="17" from="6" to="16" midtext="" />
+  <link nid="18" from="14" to="4" midtext="" />
+  <link nid="44" from="38" to="43" midtext="" />
+  <link nid="45" from="41" to="36" midtext="" />
+  <link nid="56" from="50" to="55" midtext="" />
+  <link nid="57" from="53" to="48" midtext="" />
+  <link nid="68" from="62" to="67" midtext="" />
+  <link nid="69" from="65" to="60" midtext="" />
+  <link nid="80" from="74" to="79" midtext="" />
+  <link nid="81" from="77" to="72" midtext="" />
+  <link nid="92" from="86" to="91" midtext="" />
+  <link nid="93" from="89" to="84" midtext="" />
+  <link nid="104" from="98" to="103" midtext="" />
+  <link nid="105" from="101" to="96" midtext="" />
+</flowchart>

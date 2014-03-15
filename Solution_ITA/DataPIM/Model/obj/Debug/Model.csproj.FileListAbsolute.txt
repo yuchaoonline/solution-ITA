@@ -1,0 +1,5 @@
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Model\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Model\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Model\obj\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Model\obj\Debug\Djdw.Model.pdb

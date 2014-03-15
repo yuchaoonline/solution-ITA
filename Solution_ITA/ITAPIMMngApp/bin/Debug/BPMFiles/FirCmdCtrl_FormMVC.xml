@@ -1,0 +1,16 @@
+﻿<node name="FirCmdCtrl" text="巡飞弹发控流程">
+  <node name="SendWarTaskMsg" text="作战任务发送报文" nid="33" form="XfMngApp.TcMng.TcFirCmdCtrl.DataComm.WarTaskMsgForm">
+  </node>
+  <node name="FiringDataPwdMsg" text="射击诸元口令测试报文" nid="71" form="XfMngApp.TcMng.TcFirCmdCtrl.DataComm.FiringDataPwdMsgForm">
+  </node>
+  <node name="MissileDatachainMsg" text="弹载数据链装订参数报文" nid="41" form="XfMngApp.TcMng.TcFirCmdCtrl.DataComm.MissileDatachainMsgForm">
+  </node>
+  <node name="FlightPathPlanMsg" text="参数装订报文" nid="54" form="XfMngApp.TcMng.TcFirCmdCtrl.DataComm.FlightPathPlanMsgForm">
+  </node>
+  <node name="FiringCtrlPfTmMsg" text="火控对时报文" nid="100" form="XfMngApp.TcMng.TcFirCmdCtrl.DataComm.FiringCtrlPfTmMsgForm">
+  </node>
+  <node name="FiringCmdMsg" text="发射指令报文" nid="111" form="XfMngApp.TcMng.TcFirCmdCtrl.DataComm.FiringCmdMsgForm">
+  </node>
+  <node name="FiringCmdCancleMsg" text="发射指令取消报文" nid="157" form="XfMngApp.TcMng.TcFirCmdCtrl.DataComm.FiringCmdCancleMsgForm">
+  </node>
+</node>

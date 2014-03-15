@@ -1,0 +1,11 @@
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.OracleDAL.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.OracleDAL.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.DBUtility.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.IDAL.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.DBUtility.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\bin\Debug\Djdw.IDAL.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\obj\Debug\Djdw.OracleDAL.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\OracleDAL\obj\Debug\Djdw.OracleDAL.pdb

@@ -1,0 +1,65 @@
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\Model\bin\Debug\Djdw.Model.dll
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\Model\bin\Debug\Djdw.Model.pdb
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\Model\obj\Debug\Djdw.Model.dll
+D:\系统开发\gps\系统\gpsadv\Solution_gpsadv\Model\obj\Debug\Djdw.Model.pdb
+D:\系统开发\codemanager\Solution_gpsadv\Model\bin\Debug\Djdw.Model.dll
+D:\系统开发\codemanager\Solution_gpsadv\Model\bin\Debug\Djdw.Model.pdb
+D:\系统开发\codemanager\Solution_gpsadv\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\codemanager\Solution_gpsadv\Model\obj\Debug\Djdw.Model.dll
+D:\系统开发\codemanager\Solution_gpsadv\Model\obj\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\Model\bin\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\Model\bin\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\Model\obj\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\Model\obj\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v1.1\Model\bin\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v1.1\Model\bin\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v1.1\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v1.1\Model\obj\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v1.1\Model\obj\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\Model\bin\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\Model\bin\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\Model\obj\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v2.0\Model\obj\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\Model\bin\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\Model\bin\Debug\Djdw.Model.pdb
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\Model\obj\Debug\Djdw.Model.dll
+D:\系统开发\项目资料\codemanager\Solution_gpsadv\v3.4\v2.0\Model\obj\Debug\Djdw.Model.pdb
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\Model\bin\Debug\Djdw.Model.dll
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\Model\bin\Debug\Djdw.Model.pdb
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\Model\obj\Debug\Djdw.Model.dll
+D:\My Documents\桌面\Solution_gdweb1\Solution_gdweb\website\Model\obj\Debug\Djdw.Model.pdb
+D:\work\XXTY_Solution\website\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\work\XXTY_Solution\website\Model\obj\Debug\Djdw.Model.dll
+D:\work\XXTY_Solution\website\Model\obj\Debug\Djdw.Model.pdb
+D:\work\XXTY_Solution\website\Model\bin\Debug\Djdw.Model.dll
+D:\work\XXTY_Solution\website\Model\bin\Debug\Djdw.Model.pdb
+D:\资料\Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\bin\Debug\Djdw.Model.dll
+D:\资料\Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\bin\Debug\Djdw.Model.pdb
+D:\资料\Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\资料\Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\obj\Debug\Djdw.Model.dll
+D:\资料\Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\obj\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\obj\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_GoodsMng\Solution_GoodsMng\website\Model\obj\Debug\Djdw.Model.pdb
+D:\工作内容\【内部】921\装载配平\软件备份库\bak20130415\代码资料备份20130408\中科大协调参考资料\website\Model\bin\Debug\Djdw.Model.dll
+D:\工作内容\【内部】921\装载配平\软件备份库\bak20130415\代码资料备份20130408\中科大协调参考资料\website\Model\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【内部】921\装载配平\软件备份库\bak20130415\代码资料备份20130408\中科大协调参考资料\website\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【内部】921\装载配平\软件备份库\bak20130415\代码资料备份20130408\中科大协调参考资料\website\Model\obj\Debug\Djdw.Model.dll
+D:\工作内容\【内部】921\装载配平\软件备份库\bak20130415\代码资料备份20130408\中科大协调参考资料\website\Model\obj\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\Model\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\Model\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\Model\obj\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\website\Model\obj\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\DataPIM\Model\bin\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\DataPIM\Model\bin\Debug\Djdw.Model.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\DataPIM\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\DataPIM\Model\obj\Debug\Djdw.Model.dll
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\DataPIM\Model\obj\Debug\Djdw.Model.pdb

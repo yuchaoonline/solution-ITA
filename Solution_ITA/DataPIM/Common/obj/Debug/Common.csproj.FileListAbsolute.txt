@@ -1,0 +1,6 @@
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Common\bin\Debug\Common.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Common\bin\Debug\Common.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Common\obj\Debug\Common.csproj.ResolveComReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Common\obj\Debug\Common.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\Common\obj\Debug\Common.pdb

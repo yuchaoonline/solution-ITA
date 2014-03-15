@@ -1,0 +1,59 @@
+/* CSS Document */
+
+body {
+	background: #F6F6F6;
+}
+th {
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background: #1093D1 url(../images/bg_th.gif) repeat-x;
+	padding: 3px;
+}
+td {
+	font-size: 12px;
+	color: #333333;
+	font-family: "宋体", "黑体", Arial, Basemic;
+	line-height: 14px;
+	background: #FDFEFF;
+	padding: 3px;
+}
+.textfield {
+	font-size: 12px;
+	height: 20px;
+}
+.tianj{
+	font-size: 12px;
+	line-height: 18px;
+	height: 23px;
+	width: 50px;
+}
+#lcadd{
+	border-top: 1px solid #CEDBF2;
+	border-right: 1px solid #86A6E1;
+	border-bottom: 1px solid #86A6E1;
+	border-left: 1px solid #CEDBF2;
+	margin-top: 10px;
+	border-collapse:collapse;
+	}
+#lcadd td{
+	border: 1px solid #999999;
+    }
+
+.baidi {
+	background: #F0F8FF;
+}
+.bian {
+border-collapse:collapse;
+}
+.bian td{
+	border: 1px solid #999999;
+}
+
+#lc_tl {
+	font-size: 12px;
+	border-collapse:collapse;
+	margin-left: 30px;
+	
+}

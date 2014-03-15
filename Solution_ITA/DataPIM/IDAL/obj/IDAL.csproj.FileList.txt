@@ -1,0 +1,7 @@
+bin\Debug\Djdw.IDAL.dll
+bin\Debug\Djdw.IDAL.pdb
+bin\Debug\Djdw.Model.dll
+bin\Debug\Djdw.Model.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Djdw.IDAL.dll
+obj\Debug\Djdw.IDAL.pdb

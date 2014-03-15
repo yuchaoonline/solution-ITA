@@ -1,0 +1,367 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7B102A95-B8AF-442B-B311-60A5F84CA281}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ITAMngApp</RootNamespace>
+    <AssemblyName>ITAMngApp</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="csgl, Version=1.4.1.0, Culture=neutral, PublicKeyToken=d8fb3bdb88c36cd4">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\website\Dependence\csgl.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MDSCommonLib, Version=0.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\MDSCommonLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Northwoods.Go, Version=2.2.2.1, Culture=neutral, PublicKeyToken=a4e3b7b70161cfe8" />
+    <Reference Include="PropertyGridEx, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\website\Dependence\PropertyGridEx.dll</HintPath>
+    </Reference>
+    <Reference Include="Radium.Control.DgvPagingContainer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\website\Dependence\Radium.Control.DgvPagingContainer.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpGL, Version=1.84.3370.35304, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\website\Dependence\SharpGL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.3.1.24483, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\website\Dependence\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.0.2.16769, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationFun\BpmMvcHelper.cs" />
+    <Compile Include="ApplicationFun\CBaseHelper.cs" />
+    <Compile Include="ApplicationFun\ComboBoxTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ApplicationFun\DbFunctionHelper.cs" />
+    <Compile Include="ApplicationFun\IFormExchange.cs" />
+    <Compile Include="ApplicationFun\MQHelper.cs" />
+    <Compile Include="ApplicationFun\OperUnit.cs" />
+    <Compile Include="ApplicationFun\RegexHelper.cs" />
+    <Compile Include="ApplicationFun\ShowDataType.cs" />
+    <Compile Include="BsMng\IEBrowerMng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BsMng\IEBrowerMng.Designer.cs">
+      <DependentUpon>IEBrowerMng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CmMng\BaseLib\GraphDoc.cs" />
+    <Compile Include="CmMng\BaseLib\GraphNode.cs" />
+    <Compile Include="CmMng\BaseLib\GraphView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CmMng\ServForm\CommDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CmMng\ServForm\CommDetailForm.Designer.cs">
+      <DependentUpon>CommDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CmMng\ServForm\CommServForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CmMng\ServForm\CommServForm.Designer.cs">
+      <DependentUpon>CommServForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GMngMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GMngMainForm.Designer.cs">
+      <DependentUpon>GMngMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaskMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskMainForm.Designer.cs">
+      <DependentUpon>TaskMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TkMng\DocForm\DocumentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TkMng\DocForm\DocumentForm.Designer.cs">
+      <DependentUpon>DocumentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\ITAToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\ITAToolForm.Designer.cs">
+      <DependentUpon>ITAToolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\NowTaskAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\NowTaskAddForm.designer.cs">
+      <DependentUpon>NowTaskAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\NowTaskUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\NowTaskUpdateForm.designer.cs">
+      <DependentUpon>NowTaskUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\TaskLeftForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TkMng\TaskForm\TaskLeftForm.designer.cs">
+      <DependentUpon>TaskLeftForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BsMng\IEBrowerMng.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IEBrowerMng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CmMng\ServForm\CommDetailForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CommDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CmMng\ServForm\CommServForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CommServForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GMngMainForm.resx">
+      <DependentUpon>GMngMainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskMainForm.resx">
+      <DependentUpon>TaskMainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TkMng\DocForm\DocumentForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DocumentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TkMng\TaskForm\ITAToolForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ITAToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TkMng\TaskForm\NowTaskAddForm.resx">
+      <DependentUpon>NowTaskAddForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TkMng\TaskForm\NowTaskUpdateForm.resx">
+      <DependentUpon>NowTaskUpdateForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TkMng\TaskForm\TaskLeftForm.resx">
+      <DependentUpon>TaskLeftForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TkMng\PropForm\PropertyWindow.resx">
+      <DependentUpon>PropertyWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SysDb\DbConfigForm.resx">
+      <DependentUpon>DbConfigForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="bin\Debug\config.ini" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TkMng\PropForm\PropertyWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TkMng\PropForm\PropertyWindow.designer.cs">
+      <DependentUpon>PropertyWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashAppContext.cs" />
+    <Compile Include="SysDb\DbConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SysDb\DbConfigForm.Designer.cs">
+      <DependentUpon>DbConfigForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SCAATSoft.TcpCSFramework\SCAATSoft.CommFramework.csproj">
+      <Project>{D8486FBB-E922-46BE-93C1-27E2CAAD0B69}</Project>
+      <Name>SCAATSoft.CommFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPIM\BLL\BLL.csproj">
+      <Project>{86E1E5CC-F405-424D-9D9E-5DD146AF4D00}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPIM\Common\Common.csproj">
+      <Project>{F524321C-0290-438D-8030-EBED7A008FA7}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPIM\DALFactory\DALFactory.csproj">
+      <Project>{998BF647-72E4-40F1-8C79-DE9F2D459825}</Project>
+      <Name>DALFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPIM\DBUtility\DBUtility.csproj">
+      <Project>{0988C62E-247F-471F-A183-DB509C7A3839}</Project>
+      <Name>DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPIM\IDAL\IDAL.csproj">
+      <Project>{E799FAA5-6856-4472-8C6B-B2C9C3900199}</Project>
+      <Name>IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPIM\Model\Model.csproj">
+      <Project>{0A4D23FD-8595-42DC-8075-1E7C3A6C3C50}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPIM\OracleDAL\OracleDAL.csproj">
+      <Project>{D26FFC9E-E32C-43EB-86CE-3B0322B9FCC5}</Project>
+      <Name>OracleDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\BPMFiles\DataInterF" />
+    <None Include="bin\Debug\BPMFiles\FirCmdCtrl" />
+    <None Include="bin\Debug\BPMFiles\NetCommArch" />
+    <None Include="bin\Debug\BPMFiles\xffklc" />
+    <None Include="Resources\ts_2dshow.ico" />
+    <None Include="Resources\ts_3dshow.ico" />
+    <Content Include="bin\Debug\BPMFiles\FirCmdCtrl_FormMVC.xml" />
+    <Content Include="bin\Debug\MenuInfoVer1.0.xml" />
+    <Content Include="bin\Debug\ZedGraph.dll" />
+    <None Include="images\norm.bmp" />
+    <None Include="images\right.bmp" />
+    <None Include="images\stop.bmp" />
+    <Content Include="Resources\ts_3dshow1 %281%29.ico" />
+    <Content Include="Resources\ts_3dshow1 %282%29.ico" />
+    <Content Include="Resources\ts_3dshow1 %283%29.ico" />
+    <Content Include="Resources\ts_3dshow1 %284%29.ico" />
+    <Content Include="Resources\ts_3dshow1 %285%29.ico" />
+    <Content Include="Resources\ts_3dshow1 %286%29.ico" />
+    <Content Include="Resources\ts_3dshow1.ico" />
+    <None Include="Resources\ts_add1.ico" />
+    <None Include="Resources\ts_back.ico" />
+    <None Include="Resources\ts_abort.ico" />
+    <Content Include="Resources\ts_calcu.ico" />
+    <None Include="Resources\ts_createdata.ico" />
+    <Content Include="Resources\ts_dbconfig.ico" />
+    <Content Include="Resources\ts_dbdislink.ico" />
+    <Content Include="Resources\ts_dblink.ico" />
+    <Content Include="Resources\ts_delete.ico" />
+    <Content Include="Resources\ts_delete2.ico" />
+    <None Include="Resources\ts_edit.ico" />
+    <Content Include="Resources\ts_import.ico" />
+    <Content Include="Resources\ts_importpakobj.ico" />
+    <None Include="Resources\ts_load.ico" />
+    <None Include="Resources\ts_load2.ico" />
+    <None Include="Resources\ts_out.ico" />
+    <Content Include="Resources\ts_property.ico" />
+    <None Include="Resources\ts_save.ico" />
+    <None Include="Resources\ts_select.ico" />
+    <None Include="Resources\ts_show.ico" />
+    <None Include="Resources\ts_start.ico" />
+    <None Include="Resources\ts_stop.ico" />
+    <Content Include="Resources\ts_tasklink.ico" />
+    <Content Include="Resources\ts_taskmng.ico" />
+    <Content Include="Resources\ts_tohistory.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

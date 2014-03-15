@@ -1,0 +1,38 @@
+﻿<%--
+默认的外观模板。以下外观仅作为示例提供。
+
+1. 命名的控件外观。SkinId 的定义应唯一，因为在同一主题中不允许一个控件类型有重复的 SkinId。
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. 默认外观。未定义 SkinId。在同一主题中每个控件类型只允许有一个默认的控件外观。
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+ <asp:GridView runat="server"  CssClass="GridView" AutoGenerateColumns="False"  GridLines="None">
+    <Columns></Columns>
+    <FooterStyle CssClass="FooterStyle" />
+    <RowStyle CssClass="RowStyle"  />
+    <EditRowStyle CssClass="EditRowStyle" />
+    <SelectedRowStyle CssClass="SelectedRowStyle"  />
+    <PagerStyle CssClass="PagerStyle"  HorizontalAlign="Center" />
+       <HeaderStyle  CssClass="HeaderStyle" />
+       <AlternatingRowStyle CssClass="AlternatingRowStyle" />
+                         
+                        </asp:GridView>  
+<asp:HyperLink runat="server" Height="12px" 
+                                Width="100%" Font-Size="12px" Font-Underline="False" ForeColor="White"></asp:HyperLink>
+<asp:datagrid runat="server" Width="100%" >
+   <HeaderStyle BackColor="#499299" Font-Bold="True" Font-Size="Smaller" ForeColor="White" />
+   <FooterStyle BackColor="#499299" Font-Bold="True" ForeColor="White" />
+   <EditItemStyle BackColor="#2461BF" />
+   <SelectedItemStyle BackColor="#D1DDF1" Font-Bold="True" ForeColor="#333333" />
+   <PagerStyle BackColor="#499299" ForeColor="White" HorizontalAlign="Center" />
+   <AlternatingItemStyle BackColor="White" />
+   <ItemStyle BackColor="#EFF3FB" Font-Size="Smaller" />  
+</asp:datagrid>
+
+<asp:LinkButton runat="server" ForeColor="#399299" Font-Size="12px">
+</asp:LinkButton>

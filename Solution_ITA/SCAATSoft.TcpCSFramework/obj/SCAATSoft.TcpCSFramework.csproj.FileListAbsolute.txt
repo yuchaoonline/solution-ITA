@@ -1,0 +1,10 @@
+D:\工作内容\【普通】Coding\Solution_OrbitMng\Solution_OrbitMng\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.TcpCSFramework.dll
+D:\工作内容\【普通】Coding\Solution_OrbitMng\Solution_OrbitMng\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.TcpCSFramework.pdb
+D:\工作内容\【普通】Coding\Solution_OrbitMng\Solution_OrbitMng\SCAATSoft.TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_OrbitMng\Solution_OrbitMng\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.TcpCSFramework.dll
+D:\工作内容\【普通】Coding\Solution_OrbitMng\Solution_OrbitMng\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.TcpCSFramework.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.TcpCSFramework.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.TcpCSFramework.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.TcpCSFramework.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.TcpCSFramework.pdb

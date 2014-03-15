@@ -1,0 +1,98 @@
+﻿<node name="NowTaskNode" text="当前任务">
+  <node name="node1_taskinit1" text="任务初始化">
+    <node name="NodeInitTransVehicle" text="货船信息">
+    </node>
+    <node name="NodeReInitTV" text="二次初始化">
+    </node>
+    <node name="NodeInitStorInterf" text="标准货包">
+    </node>
+    <node name="NodeStandStorUnit" text="存储模式">
+    </node>
+    <node name="NodeInitStorUnit" text="存储单元">
+    </node>
+    <node name="NodePakLoadRf" text="货包放置">
+    </node>
+    <node name="NodeInitSortTree" text="物资分类">
+    </node>
+    <node name="NodeInitCargoInfo" text="待装物资">
+    </node>
+    <node name="NodePreLoadStorInterf" text="货包管理">
+    </node>
+  </node>
+  <node name="node1_preload2" text="预先装载">
+    <node name="NodePreLoadCargoInfo" text="货物预货船">
+    </node>
+    <node name="NodePreLoadPreStorUnit" text="货包预货船">
+    </node>
+  </node>
+  <node name="node1_kdload3" text="知识库装载规划">
+    <node name="NodeKDStorInterfObjQueryForm" text="装载模式管理">
+    </node>
+    <node name="NodeKDInputPlanCargoQueryForm" text="规划物资管理">
+    </node>
+    <node name="NodeKDCaculateMngForm" text="装载规划计算">
+    </node>
+  </node>
+  <node name="node1_Loadmng4" text="物资装载规划">
+    <node name="NodeLoadMngLoadModelConfig" text="规划配置管理">
+    </node>
+    <node name="NodeLoadMngLoadRestrict" text="目标约束管理">
+   </node>
+    <node name="node2_opcacumng1" text="优化计算管理">
+      <node name="NodeLoadMngPrioCargotoStorIf" text="启发装载运算">
+      </node>
+      <node name="NodeLoadMngPrioCargotoStorIfResult" text="启发装载结果">
+      </node>
+    </node>
+    <node name="NodeAllCargotoStorIfResult" text="规划结果管理">
+    </node>
+  </node>
+  <node name="node1_Layoutmng5" text="物资配平布局">
+    <node name="NodeLayoutConfigMngForm" text="布局配置管理">
+    </node>
+    <node name="NodeLayoutRestrictMng" text="目标约束管理">
+    </node>
+    <node name="node2_opcacumng2" text="优化计算管理">
+      <node name="NodeLayoutStorIftoStorUnit" text="货包布局优化">
+      </node>
+      <node name="NodeLayoutManual" text="布局人工调整">
+      </node>
+    </node>
+    <node name="NodeAllStorIftoStorUnitResult" text="布局结果管理">
+    </node>
+    <node name="LayoutNodeResultOutput" text="布局结果显示">
+    </node>
+  </node>
+  <node name="node1_TempLaymng6" text="发射临时调整">
+    <node name="NodeTempLayoutConfigMngForm" text="调整配置管理">
+    </node>
+    <node name="NodeTempLayoutRestrictMng" text="目标约束管理">
+    </node>
+    <node name="node2_opcacumng3" text="优化计算管理">
+      <node name="NodeTempLayoutStorIftoStorUnit" text="货包布局优化">
+      </node>
+      <node name="NodeTempLayoutManual" text="布局人工调整">
+      </node>
+    </node>
+    <node name="NodeTempAllStorIftoStorUnitResult" text="布局结果管理">
+    </node>
+    <node name="TempLayoutNodeResultOutput" text="布局结果显示">
+    </node>
+  </node>
+  <node name="node1_OrbitLaymng7" text="在轨配平调整">
+    <node name="NodeOrbitLayoutConfigMngForm" text="调整配置管理">
+    </node>
+    <node name="NodeOrbitLayoutRestrictMng" text="目标约束管理">
+    </node>
+    <node name="node2_opcacumng4" text="优化计算管理">
+      <node name="NodeOrbitLayoutStorIftoStorUnit" text="货包布局优化">
+      </node>
+      <node name="NodeOrbitLayoutManual" text="布局人工调整">
+      </node>
+    </node>
+    <node name="NodeOrbitAllStorIftoStorUnitResult" text="布局结果管理">
+    </node>
+    <node name="OrbitLayoutNodeResultOutput" text="布局结果显示">
+    </node>
+  </node>
+</node>

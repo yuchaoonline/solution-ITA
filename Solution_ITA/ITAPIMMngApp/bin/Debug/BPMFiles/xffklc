@@ -1,0 +1,17 @@
+<flowchart version="2" name="xffklc" nextposx="80" nextposy="30">
+  <title text="巡飞弹发控流程" nid="0" x="-335.960266" y="20" familyname="Microsoft Sans Serif" fontsize="20" alignment="32" bold="T" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="3" nid="7" pidtop="8" pidright="9" pidbottom="10" pidleft="11" text="作战任务" x="-168.335938" y="160.454437" />
+  <node kind="2" nid="12" pidtop="13" pidright="14" pidleft="15" text="结束" x="-213.667969" y="310.454437" />
+  <comment text="规划控制车" nid="16" x="-180" y="60" familyname="Microsoft Sans Serif" fontsize="10" alignment="2" bold="F" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="1" nid="17" pidright="18" pidbottom="19" pidleft="20" text="开始" x="-208.667969" y="90.45443" />
+  <node kind="3" nid="6" pidtop="21" pidright="30" pidbottom="31" pidleft="32" text="作战任务" x="31.6640625" y="160.454437" />
+  <node kind="3" nid="1" pidtop="2" pidright="3" pidbottom="4" pidleft="5" text="炮位阵地信息" x="-178.0039" y="240.454437" />
+  <node kind="3" nid="22" pidtop="23" pidright="24" pidbottom="25" pidleft="26" text="炮位阵地信息" x="21.9960938" y="240.454437" />
+  <comment text="火控计算机" nid="48" x="20" y="60" familyname="Microsoft Sans Serif" fontsize="10" alignment="2" bold="F" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <link nid="33" from="8" to="21" midtext="1报文1201" />
+  <link nid="35" from="19" to="11" midtext="开始" />
+  <link nid="34" from="31" to="10" midtext="2回执报文1" />
+  <link nid="27" from="2" to="23" midtext="3报文2101" />
+  <link nid="29" from="25" to="4" midtext="4回执报文2" />
+  <link nid="49" from="5" to="13" />
+</flowchart>

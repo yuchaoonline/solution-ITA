@@ -1,0 +1,15 @@
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.CommFramework.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.CommFramework.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.CommFramework.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\Solution_LxxfMng\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.CommFramework.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\陆巡通讯程序\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.CommFramework.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\陆巡通讯程序\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.CommFramework.pdb
+D:\工作内容\【普通】Coding\Solution_LxxfMng\陆巡通讯程序\SCAATSoft.TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_LxxfMng\陆巡通讯程序\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.CommFramework.dll
+D:\工作内容\【普通】Coding\Solution_LxxfMng\陆巡通讯程序\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.CommFramework.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.CommFramework.dll
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\SCAATSoft.TcpCSFramework\bin\Debug\SCAATSoft.CommFramework.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\SCAATSoft.TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.CommFramework.dll
+D:\工作内容\【普通】Coding\Solution_ITA\Solution_ITA\SCAATSoft.TcpCSFramework\obj\Debug\SCAATSoft.CommFramework.pdb

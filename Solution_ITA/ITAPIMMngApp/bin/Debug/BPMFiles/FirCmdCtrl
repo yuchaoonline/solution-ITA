@@ -1,0 +1,49 @@
+<flowchart version="2" name="FirCmdCtrl" nextposx="80" nextposy="30">
+  <title text="发控流程" nid="0" x="0" y="20" familyname="Microsoft Sans Serif" fontsize="12" alignment="32" bold="T" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="3" nid="7" pidtop="8" pidright="9" pidbottom="10" pidleft="11" text="作战任务" x="-103.335938" y="80.45443" />
+  <comment text="规划控制车" nid="16" x="-105" y="20" familyname="Microsoft Sans Serif" fontsize="10" alignment="2" bold="F" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="3" nid="6" pidtop="21" pidright="30" pidbottom="31" pidleft="32" text="作战任务" x="96.66406" y="80.45443" />
+  <node kind="3" nid="1" pidtop="2" pidright="3" pidbottom="4" pidleft="5" text="炮位阵地信息" x="-118.003906" y="160.454422" />
+  <comment text="火控计算机" nid="48" x="100" y="20" familyname="Microsoft Sans Serif" fontsize="10" alignment="2" bold="F" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="3" nid="22" pidtop="23" pidright="24" pidbottom="25" pidleft="26" text="炮位阵地信息" x="81.99609" y="160.454422" />
+  <node kind="3" nid="28" pidtop="36" pidright="37" pidbottom="38" pidleft="39" text="弹载数据链&#xD;&#xA;装订参数" x="-105.669922" y="242.908859" />
+  <node kind="3" nid="42" pidtop="43" pidright="44" pidbottom="45" pidleft="46" text="巡飞弹数据链&#xD;&#xA;装订" x="86.99609" y="242.908859" />
+  <node kind="3" nid="47" pidtop="49" pidright="50" pidbottom="51" pidleft="52" text="其他装订参数" x="-108.003906" y="340.454437" />
+  <node kind="3" nid="55" pidtop="56" pidright="57" pidbottom="58" pidleft="59" text="其他数据装订" x="86.99609" y="340.454437" />
+  <node kind="3" nid="60" pidtop="61" pidright="62" pidbottom="63" pidleft="64" text="射击诸元口令" x="-108.003906" y="430.454437" />
+  <node kind="3" nid="65" pidtop="66" pidright="67" pidbottom="68" pidleft="69" text="火控操瞄" x="101.664063" y="430.454437" />
+  <node kind="3" nid="72" pidtop="73" pidright="74" pidbottom="75" pidleft="76" text="发射准备好结果" x="194.662109" y="80.45443" />
+  <node kind="3" nid="77" pidtop="78" pidright="79" pidbottom="80" pidleft="81" text="发射准备好" x="409.330078" y="80.45443" />
+  <comment text="规划控制车" nid="87" x="220" y="20" familyname="Microsoft Sans Serif" fontsize="10" alignment="2" bold="F" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <comment text="火控计算机" nid="88" x="425" y="20" familyname="Microsoft Sans Serif" fontsize="10" alignment="2" bold="F" italic="F" strikethrough="F" underline="F" multiline="T" wrapping="F" wrappingwidth="150" editable="T" />
+  <node kind="3" nid="89" pidtop="90" pidright="91" pidbottom="92" pidleft="93" text="系统对时" x="211.664063" y="160.454422" />
+  <node kind="3" nid="94" pidtop="95" pidright="96" pidbottom="97" pidleft="98" text="系统对时" x="421.664063" y="160.454422" />
+  <node kind="3" nid="101" pidtop="102" pidright="103" pidbottom="104" pidleft="105" text="发射口令" x="216.664063" y="250.454422" />
+  <node kind="3" nid="106" pidtop="107" pidright="108" pidbottom="109" pidleft="110" text="启动发射指令" x="406.9961" y="250.454422" />
+  <node kind="3" nid="113" pidtop="114" pidright="115" pidbottom="116" pidleft="117" text="激活好结果" x="214.330078" y="320.454437" />
+  <node kind="3" nid="118" pidtop="119" pidright="120" pidbottom="121" pidleft="122" text="巡飞弹上电测试" x="414.6621" y="320.454437" />
+  <node kind="3" nid="136" pidtop="137" pidright="138" pidbottom="139" pidleft="140" text="发射好结果" x="214.330078" y="350.454437" />
+  <node kind="3" nid="141" pidtop="142" pidright="143" pidbottom="144" pidleft="145" text="巡飞弹点火" x="429.330078" y="350.454437" />
+  <node kind="3" nid="147" pidtop="148" pidright="149" pidbottom="150" pidleft="151" text="发射撤销" x="216.664063" y="420.454437" />
+  <node kind="3" nid="152" pidtop="153" pidright="154" pidbottom="155" pidleft="156" text="发射撤销" x="421.664063" y="420.454437" />
+  <link nid="33" from="8" to="21" midtext="1报文1201" />
+  <link nid="34" from="31" to="10" midtext="2回执报文1" />
+  <link nid="29" from="25" to="4" midtext="3报文2101" />
+  <link nid="27" from="2" to="23" midtext="4回执报文2" />
+  <link nid="40" from="45" to="38" midtext="20回执报文4" />
+  <link nid="41" from="36" to="43" midtext="15弹载数据链报文1203" />
+  <link nid="54" from="49" to="56" midtext="21参数装订报文1204" />
+  <link nid="70" from="68" to="63" midtext="28回执报文6" />
+  <link nid="71" from="61" to="66" midtext="27射击诸元口令报文1202" />
+  <link nid="82" from="80" to="75" midtext="33发射准备好指令报文2104" />
+  <link nid="83" from="73" to="78" midtext="34回执报文7" />
+  <link nid="100" from="90" to="95" midtext="35火控对时报文1205" />
+  <link nid="99" from="97" to="92" midtext="36回执报文8" />
+  <link nid="111" from="102" to="107" midtext="39发射指令报文1206" />
+  <link nid="112" from="109" to="104" midtext="44回执报文10" />
+  <link nid="124" from="122" to="115" midtext="53结果回复2105" />
+  <link nid="146" from="145" to="138" midtext="58发射完毕2106" />
+  <link nid="157" from="148" to="153" midtext="59发射指令撤销报文1207" />
+  <link nid="158" from="155" to="150" midtext="60回执报文15" />
+  <link nid="53" from="58" to="51" midtext="26回执报文5" />
+</flowchart>

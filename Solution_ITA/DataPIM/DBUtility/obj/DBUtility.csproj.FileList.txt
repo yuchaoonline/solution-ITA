@@ -1,0 +1,5 @@
+bin\Debug\Djdw.DBUtility.dll
+bin\Debug\Djdw.DBUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Djdw.DBUtility.dll
+obj\Debug\Djdw.DBUtility.pdb

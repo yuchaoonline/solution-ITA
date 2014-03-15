@@ -1,0 +1,5 @@
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\DBUtility\bin\Debug\Djdw.DBUtility.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\DBUtility\bin\Debug\Djdw.DBUtility.pdb
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\DBUtility\obj\Debug\Djdw.DBUtility.dll
+D:\工作内容\【普通】Coding\Solution_ITA\代码部分\Solution_ITA\DataPIM\DBUtility\obj\Debug\Djdw.DBUtility.pdb
